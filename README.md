@@ -1,0 +1,1 @@
+This is JumpRight's first git project!
